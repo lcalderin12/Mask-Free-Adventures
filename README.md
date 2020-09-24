@@ -79,8 +79,10 @@ THEN I am presented with a modal displaying risk level
 
 ![](img/intro.png)
 <br>
-![](img/modal.png)
+![](img/high-risk.png)
 <br>
-![](img/parks.png)
+![](img/low-risk.png)
+<br>
+![](img/park.png)
 
 
